@@ -18,4 +18,4 @@ Ordered
     1. Item 3a 
     1. Item 3b
 
-![이미지}(https://visla.kr/wp/wp-content/uploads/2014/10/Lacoste1.jpg)
+![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYMNP 로고")
