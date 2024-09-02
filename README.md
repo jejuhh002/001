@@ -1,3 +1,16 @@
+![대체텍스트](이미지주소)
+![대체텍스트](이미지주소 "설명")
+![대체텍스트][참조]
+
+[참조]: 이미지주소
+[참조]: 이미지주소 "설명"
+MARKDOWN
+![대체 텍스트(Alternative Text)](https://picsum.photos/1000/400 "링크 설명(Title)")
+![이미지입니다!][Image]
+
+[Image]: https://picsum.photos/500/300 "이미지입니다!"
+
+
 [GOOGLE](https://google.com)
 
 [NAVER](https://naver.com "링크 설명(title)을 작성하세요.")
