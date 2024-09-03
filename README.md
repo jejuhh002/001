@@ -15,7 +15,7 @@ Ordered
 1. Item 1 
 1. Item 2 
 1. Item 3 
-    1. Item 3a 
+    1. ~Item~ 3a 
     1. Item 3b
 
 ![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYMNP 로고")
