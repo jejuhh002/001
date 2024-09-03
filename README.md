@@ -16,5 +16,5 @@ ___
              5.ㅎㄹㅀㄹㅇㅎㄹ
        6.ㅀㄹㅇㅎㄹㅇㅎ
        
-![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYMNP 로고")
-![유튜브](https://www.agoda.com/wp-content/uploads/2024/02/Jeju-Island-hotels-things-to-do-in-Jeju-Island-South-Korea.jpg)
+
+![돌하르방](https://www.agoda.com/wp-content/uploads/2024/02/Jeju-Island-hotels-things-to-do-in-Jeju-Island-South-Korea.jpg)
